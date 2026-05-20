@@ -690,6 +690,7 @@ const SheetContent = /*#__PURE__*/ __TURBOPACK__imported__module__$5b$project$5d
                 ref: ref,
                 className: (0, __TURBOPACK__imported__module__$5b$project$5d2f$lib$2f$utils$2e$ts__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["cn"])("fixed z-50 bg-sidebar shadow-xl transition ease-in-out data-[state=open]:animate-in data-[state=closed]:animate-out", side === "left" && "inset-y-0 left-0 w-72 data-[state=closed]:slide-out-to-left data-[state=open]:slide-in-from-left", className),
                 ...props,
+                "aria-describedby": undefined,
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$radix$2d$ui$2f$react$2d$visually$2d$hidden$2f$dist$2f$index$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Root"], {
                         asChild: true,
@@ -697,12 +698,12 @@ const SheetContent = /*#__PURE__*/ __TURBOPACK__imported__module__$5b$project$5d
                             children: "Navigasi"
                         }, void 0, false, {
                             fileName: "[project]/components/ui/sheet.tsx",
-                            lineNumber: 48,
+                            lineNumber: 49,
                             columnNumber: 9
                         }, ("TURBOPACK compile-time value", void 0))
                     }, void 0, false, {
                         fileName: "[project]/components/ui/sheet.tsx",
-                        lineNumber: 47,
+                        lineNumber: 48,
                         columnNumber: 7
                     }, ("TURBOPACK compile-time value", void 0)),
                     children,
@@ -713,7 +714,7 @@ const SheetContent = /*#__PURE__*/ __TURBOPACK__imported__module__$5b$project$5d
                                 className: "h-4 w-4 text-sidebar-foreground"
                             }, void 0, false, {
                                 fileName: "[project]/components/ui/sheet.tsx",
-                                lineNumber: 52,
+                                lineNumber: 53,
                                 columnNumber: 9
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -721,13 +722,13 @@ const SheetContent = /*#__PURE__*/ __TURBOPACK__imported__module__$5b$project$5d
                                 children: "Close"
                             }, void 0, false, {
                                 fileName: "[project]/components/ui/sheet.tsx",
-                                lineNumber: 53,
+                                lineNumber: 54,
                                 columnNumber: 9
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/components/ui/sheet.tsx",
-                        lineNumber: 51,
+                        lineNumber: 52,
                         columnNumber: 7
                     }, ("TURBOPACK compile-time value", void 0))
                 ]

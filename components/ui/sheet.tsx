@@ -43,6 +43,7 @@ const SheetContent = React.forwardRef<
         className,
       )}
       {...props}
+      aria-describedby={undefined}
     >
       <VisuallyHiddenPrimitive.Root asChild>
         <DialogPrimitive.Title>Navigasi</DialogPrimitive.Title>
